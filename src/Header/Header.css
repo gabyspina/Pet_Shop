@@ -1,0 +1,41 @@
+
+  .App-section{
+    padding-top: 10px;
+    display: flex;
+    flex-direction: row;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-content: space-evenly;
+    background-image:url(https://images.pexels.com/photos/7324407/pexels-photo-7324407.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+    background-position: center;
+    border: 1px black solid;
+    height: 50vh;
+  }
+    
+.App-titulos{
+    font-size: 2em;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    text-shadow: 2px 2px black;
+    background-color: rgba(255, 255, 255, 0.329);    
+    margin-bottom: 10px;
+  }
+
+  h1{
+    color: red;
+    font-size: 70px;
+  }
+  
+  .subtitle{
+    color: green;
+    font-weight: bold;
+    font-size: 30px;
+  }
+  
+
+  
