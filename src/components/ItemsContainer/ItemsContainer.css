@@ -1,0 +1,21 @@
+.items-class{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    background-image: url(https://images.pexels.com/photos/7310213/pexels-photo-7310213.jpeg?auto=compress&cs=tinysrgb&w=600);
+    background-size: cover;
+    
+    justify-content: center;
+}
+.contenedor{
+
+    width: 400px;
+    display: flex;
+    align-content: center;
+    align-items: center;
+}
+
+.otro{
+    border: green;
+}

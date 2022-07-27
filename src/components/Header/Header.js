@@ -1,5 +1,5 @@
 import React from 'react'
-import logo  from '../assets/logo-pet-modificado.ico'
+import logo  from '../../assets/logo-pet-modificado.ico'
 import './Header.css'
 
 

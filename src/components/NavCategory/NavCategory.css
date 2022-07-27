@@ -1,0 +1,21 @@
+nav{
+    background-color: #f2f2f2;
+    padding: 0;
+    margin: 0;
+    border-bottom: 1px solid black;
+}
+ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center ;
+}
+.li{
+    list-style: none;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
